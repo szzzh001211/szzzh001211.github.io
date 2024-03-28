@@ -1,3 +1,16 @@
 theme: jekyll-theme-minimal
 title: Ziheng Zhang Homepage
 url: https://szzzh001211.github.io/
+
+owner: 
+  name: Ziheng Zhang
+  #avatar: hanlin.jpg
+  email: zihengz1211@ucla.edu
+  github: szzzh001211
+  linkedin: ziheng-zhang-202b812b1
+
+links:
+  - title: About Me
+    url: /
+  - title: Projects
+    url: /projects/
